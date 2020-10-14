@@ -1,1 +1,2 @@
 2 plik
+2komit po utworzeniu z dodaniem i równoczesnym commitowaniem
